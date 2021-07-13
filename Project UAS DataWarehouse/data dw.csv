@@ -1,0 +1,151 @@
+Bulan Pemesanan,Nama Produk,Kontraktor,KodeProduk,Quantity,Contact person
+Januari,Honda Beat,CV. Jaya Utama,BT,10,Bapak Aly
+Januari,Honda PCX160,CV. Jaya Utama,PCX160,30,Bapak Aly
+Januari,Honda PCX160,CV. Jaya Utama,PCX160,500,Bapak Aly
+Januari,Honda CRF150L,CV. Jaya Utama,CRF150L,70,Bapak Aly
+Januari,Honda Vario125,PT. Honda,V125,40,Bapak Roki
+Januari,Honda Beat Street,PT. Honda,BTS,65,Bapak Roki
+Januari,Honda Beat,PT. Honda,BT,20,Bapak Roki
+Januari,Honda PCX160,PT. Honda,PCX160,30,Bapak Roki
+Januari,Honda Vario150,PT. Makmur,V150,150,Bapak Imam
+Januari,Honda CRF150L,PT. Makmur,CRF150L,30,Bapak Imam
+Januari,Honda Vario125,CV. Surya Honda ,V125,150,Bapak Indra
+Januari,Honda Beat Street,CV. Honda Utama ,BTS,70,Bapak kholik
+Januari,Honda Beat,CV. Honda Utama ,BT,40,Bapak kholik
+Januari,Honda PCX160,CV. Honda Utama ,PCX160,30,Bapak kholik
+Januari,Honda Vario150,CV. Honda Utama ,V150,60,Bapak kholik
+Februari,Honda CRF150L,CV. Solar Energy,CRF150L,10,Bapak Ahmad
+Februari,Honda Vario125,CV. Solar Energy,V125,20,Bapak Ahmad
+Februari,Honda Beat Street,CV. Solar Energy,BTS,50,Bapak Ahmad
+Februari,Honda PCX160,CV. Solar Energy,PCX160,300,Bapak Ahmad
+Februari,Honda CRF150L,PT. BELL,CRF150L,150,Bapak Rozak
+Februari,Honda Beat Street,PT. BELL,BTS,200,Bapak Rozak
+Februari,Honda Beat Street,PT. BELL,BTS,600,Bapak Rozak
+Februari,Honda Beat Street,PT. BELL,BTS,450,Bapak Rozak
+Februari,Honda CRF150L,CV. Surya Honda ,CRF150L,250,Bapak Indra
+Februari,Honda PCX160,CV. Surya Honda ,PCX160,50,Bapak Indra
+Februari,Honda CRF150L,CV. Surya Honda ,CRF150L,40,Bapak Indra
+Maret,Honda Vario125,PT. BELL,V125,150,Bapak Rozak
+Maret,Honda Beat Street,PT. BELL,BTS,150,Bapak Rozak
+Maret,Honda Beat,PT. BELL,BT,150,Bapak Rozak
+Maret,Honda PCX160,PT. BELL,PCX160,150,Bapak Rozak
+Maret,Honda Vario150,PT. Makmur,V150,100,Bapak Imam
+Maret,Honda CRF150L,PT. Makmur,CRF150L,70,Bapak Imam
+Maret,Honda Vario125,PT. Makmur,V125,250,Bapak Imam
+Maret,Honda Beat Street,PT. Honda,BTS,170,Bapak Roki
+Maret,Honda Beat,PT. Honda,BT,80,Bapak Roki
+Maret,Honda PCX160,PT. Honda,PCX160,200,Bapak Roki
+Maret,Honda Vario150,PT. Honda,V150,470,Bapak Roki
+Maret,Honda CRF150L,CV. Jaya Utama,CRF150L,60,Bapak Aly
+Maret,Honda Vario125,CV. Jaya Utama,V125,30,Bapak Aly
+Maret,Honda Beat Street,CV. Jaya Utama,BTS,15,Bapak Aly
+Maret,Honda Beat,CV. Jaya Utama,BT,50,Bapak Aly
+April,Honda PCX160,PT. Aditarwan,PCX160,230,Bapak Aditya 
+April,Honda Vario150,PT. Aditarwan,V150,150,Bapak Aditya 
+April,Honda Vario125,PT. Aditarwan,V125,80,Bapak Aditya 
+April,Honda Beat Street,PT. Aditarwan,BTS,50,Bapak Aditya 
+April,Honda Beat,PT. Aditarwan,BT,60,Bapak Aditya 
+April,Honda PCX160,CV. Sumber Setia Abadi,PCX160,30,Bapak Taufiq
+April,Honda Vario150,CV. Sumber Setia Abadi,V150,20,Bapak Taufiq
+April,Honda CRF150L,CV. Sumber Setia Abadi,CRF150L,80,Bapak Taufiq
+April,Honda Vario125,CV. Kelola Jaya Artha,V125,300,Bapak Reza
+April,Honda Beat Street,CV. Kelola Jaya Artha,BTS,200,Bapak Reza
+April,Honda Vario125,CV. Kelola Jaya Artha,V125,150,Bapak Reza
+April,Honda Beat Street,CV. Kelola Jaya Artha,BTS,300,Bapak Reza
+Mei,Honda Beat,PT. Dwi Prima,BT,150,Bapak Yanuar
+Mei,Honda PCX160,PT. Dwi Prima,PCX160,80,Bapak Yanuar
+Mei,Honda Vario150,PT. Dwi Prima,V150,40,Bapak Yanuar
+Mei,Honda CRF150L,PT. Dwi Prima,CRF150L,60,Bapak Yanuar
+Mei,Honda Vario125,PT. Intan Anugerah,V125,50,Bapak Fitrian
+Mei,Honda Beat Street,PT. Intan Anugerah,BTS,50,Bapak Fitrian
+Mei,Honda Beat,CV. Surya Honda ,BT,50,Bapak Indra
+Mei,Honda PCX160,CV. Surya Honda ,PCX160,50,Bapak Indra
+Mei,Honda PCX160,CV. Surya Honda ,PCX160,50,Bapak Indra
+Mei,Honda CRF150L,CV. Surya Honda ,CRF150L,50,Bapak Indra
+Mei,Honda Vario125,CV. Surya Honda ,V125,15,Bapak Indra
+Mei,Honda Beat Street,CV. Surya Honda ,BTS,30,Bapak Indra
+Mei,Honda Beat,CV. Surya Honda ,BT,15,Bapak Indra
+Mei,Honda PCX160,CV. Metec,PCX160,20,Bapak Rudi
+Juni,Honda PCX160,CV. Jaya Utama,PCX160,10,Bapak Aly
+Juni,Honda CRF150L,CV. Jaya Utama,CRF150L,80,Bapak Aly
+Juni,Honda Vario125,CV. Jaya Utama,V125,20,Bapak Aly
+Juni,Honda Beat Street,CV. Jaya Utama,BTS,30,Bapak Aly
+Juni,Honda Beat,PT. Honda,BT,40,Bapak Roki
+Juni,Honda PCX160,PT. Honda,PCX160,65,Bapak Roki
+Juni,Honda PCX160,PT. Honda,PCX160,20,Bapak Roki
+Juni,Honda CRF150L,PT. Honda,CRF150L,30,Bapak Roki
+Juni,Honda Vario125,CV. Metec,V125,20,Bapak Rudi
+Juni,Honda Beat Street,CV. Metec,BTS,50,Bapak Rudi
+Juni,Honda Beat,CV. Metec,BT,50,Bapak Rudi
+Juni,Honda PCX160,CV. Metec,PCX160,10,Bapak Rudi
+Juli,Honda PCX160,PT. BELL,PCX160,150,Bapak Rozak
+Juli,Honda CRF150L,PT. BELL,CRF150L,200,Bapak Rozak
+Juli,Honda Vario125,PT. BELL,V125,600,Bapak Rozak
+Juli,Honda Beat Street,PT. BELL,BTS,450,Bapak Rozak
+Juli,Honda Beat,CV. Honda Utama ,BT,70,Bapak kholik
+Juli,Honda PCX160,CV. Honda Utama ,PCX160,40,Bapak kholik
+Juli,Honda PCX160,CV. Honda Utama ,PCX160,30,Bapak kholik
+Juli,Honda CRF150L,CV. Honda Utama ,CRF150L,60,Bapak kholik
+Juli,Honda Vario125,PT. Aditarwan,V125,130,Bapak Aditya 
+Juli,Honda Beat Street,PT. Aditarwan,BTS,100,Bapak Aditya 
+Juli,Honda Beat,PT. Aditarwan,BT,80,Bapak Aditya 
+Juli,Honda PCX160,PT. Aditarwan,PCX160,50,Bapak Aditya 
+Juli,Honda PCX160,PT. Aditarwan,PCX160,70,Bapak Aditya 
+Juli,Honda CRF150L,CV. Surya Honda ,CRF150L,60,Bapak Indra
+Juli,Honda Vario125,CV. Surya Honda ,V125,60,Bapak Indra
+Juli,Honda Beat Street,CV. Surya Honda ,BTS,60,Bapak Indra
+Juli,Honda Beat Street,CV. Surya Honda ,BTS,60,Bapak Indra
+Agustus,Honda Beat Street,CV. Jaya Utama,BTS,40,Bapak Aly
+Agustus,Honda Beat Street,CV. Jaya Utama,BTS,40,Bapak Aly
+Agustus,Honda CRF150L,CV. Solar Energy,CRF150L,30,Bapak Ahmad
+Agustus,Honda PCX160,CV. Solar Energy,PCX160,30,Bapak Ahmad
+Agustus,Honda CRF150L,CV. Solar Energy,CRF150L,30,Bapak Ahmad
+Agustus,Honda Vario125,PT. Makmur,V125,270,Bapak Imam
+Agustus,Honda Beat Street,PT. Makmur,BTS,130,Bapak Imam
+Agustus,Honda Beat Street,PT. Makmur,BTS,150,Bapak Imam
+Agustus,Honda Beat Street,PT. Makmur,BTS,110,Bapak Imam
+September,Honda Beat Street,PT. Dwi Prima,BTS,100,Bapak Yanuar
+September,Honda CRF150L,PT. Dwi Prima,CRF150L,100,Bapak Yanuar
+September,Honda PCX160,PT. Dwi Prima,PCX160,100,Bapak Yanuar
+September,Honda CRF150L,PT. Dwi Prima,CRF150L,100,Bapak Yanuar
+September,Honda Vario125,PT. Intan Anugerah,V125,100,Bapak Fitrian
+September,Honda Beat Street,PT. Intan Anugerah,BTS,100,Bapak Fitrian
+September,Honda Beat Street,PT. Intan Anugerah,BTS,70,Bapak Fitrian
+September,Honda Beat Street,PT. Intan Anugerah,BTS,50,Bapak Fitrian
+Oktober,Honda Beat Street,CV. Sumber Setia Abadi,BTS,30,Bapak Taufiq
+Oktober,Honda CRF150L,CV. Sumber Setia Abadi,CRF150L,30,Bapak Taufiq
+Oktober,Honda PCX160,CV. Sumber Setia Abadi,PCX160,30,Bapak Taufiq
+Oktober,Honda CRF150L,CV. Metec,CRF150L,50,Bapak Rudi
+Oktober,Honda Vario125,CV. Metec,V125,30,Bapak Rudi
+Oktober,Honda Beat Street,CV. Metec,BTS,20,Bapak Rudi
+Oktober,Honda Beat Street,CV. Metec,BTS,40,Bapak Rudi
+Oktober,Honda Beat Street,CV. Kelola Jaya Artha,BTS,100,Bapak Reza
+Oktober,Honda Beat Street,CV. Kelola Jaya Artha,BTS,100,Bapak Reza
+Oktober,Honda CRF150L,CV. Kelola Jaya Artha,CRF150L,100,Bapak Reza
+Oktober,Honda PCX160,CV. Kelola Jaya Artha,PCX160,100,Bapak Reza
+Oktober,Honda CRF150L,CV. Solar Energy,CRF150L,230,Bapak Ahmad
+Oktober,Honda Vario125,CV. Solar Energy,V125,150,Bapak Ahmad
+Oktober,Honda Beat Street,CV. Solar Energy,BTS,70,Bapak Ahmad
+Oktober,Honda Beat Street,CV. Solar Energy,BTS,50,Bapak Ahmad
+November,Honda Beat Street,PT. BELL,BTS,150,Bapak Rozak
+November,Honda Beat Street,PT. BELL,BTS,200,Bapak Rozak
+November,Honda CRF150L,PT. BELL,CRF150L,600,Bapak Rozak
+November,Honda PCX160,PT. BELL,PCX160,450,Bapak Rozak
+November,Honda CRF150L,PT. Makmur,CRF150L,100,Bapak Imam
+November,Honda Vario125,PT. Makmur,V125,70,Bapak Imam
+November,Honda Beat Street,PT. Makmur,BTS,250,Bapak Imam
+November,Honda Beat Street,CV. Surya Honda ,BTS,60,Bapak Indra
+November,Honda Beat Street,CV. Surya Honda ,BTS,60,Bapak Indra
+November,Honda Beat Street,CV. Surya Honda ,BTS,60,Bapak Indra
+November,Honda CRF150L,CV. Surya Honda ,CRF150L,60,Bapak Indra
+Desember,Honda PCX160,CV. Jaya Utama,PCX160,40,Bapak Aly
+Desember,Honda CRF150L,CV. Jaya Utama,CRF150L,40,Bapak Aly
+Desember,Honda Vario125,PT. Aditarwan,V125,230,Bapak Aditya 
+Desember,Honda Beat Street,PT. Aditarwan,BTS,150,Bapak Aditya 
+Desember,Honda Beat Street,PT. Aditarwan,BTS,80,Bapak Aditya 
+Desember,Honda Beat Street,PT. Aditarwan,BTS,50,Bapak Aditya 
+Desember,Honda Beat Street,PT. Aditarwan,BTS,60,Bapak Aditya 
+Desember,Honda CRF150L,CV. Metec,CRF150L,50,Bapak Rudi
+Desember,Honda PCX160,CV. Metec,PCX160,30,Bapak Rudi
+Desember,Honda CRF150L,CV. Metec,CRF150L,20,Bapak Rudi
+Desember,Honda Vario125,CV. Metec,V125,40,Bapak Rudi
